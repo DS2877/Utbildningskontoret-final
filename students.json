@@ -1,0 +1,22 @@
+{   
+"students": [
+        {
+            "firstName": "Philip",
+            "lastName": "Klingstedt",
+            "email":"philip@philip.se",
+            "phone":"0706633512"
+        },
+        {
+            "firstName": "Michael",
+            "lastName": "Gustavsson",
+            "email":"michael@michael.se",
+            "phone":"0701234567"
+        },
+        {
+            "firstName": "Lina",
+            "lastName": "Sarenius",
+            "email":"lina@lina.se",
+            "phone":"0707654321"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Javascript 101",
+            "duration": "15 days",
+            "remote": true,
+            "image": "image-1.jpg",
+            "startDate": "2025-01-01"
+        },
+        {
+            "id": 2,
+            "title": "Javascript 202",
+            "duration": "15 days",
+            "remote": true,
+            "image": "image-1.jpg",
+            "startDate": "2025-01-01"
+        },
+        {
+            "id": 3,
+            "title": "Javascript 303",
+            "duration": "15 days",
+            "remote": false,
+            "image": "image-1.jpg",
+            "startDate": "2025-01-01"
+        },
+        {
+            "id": 4,
+            "title": "CSS 101",
+            "duration": "15 days",
+            "remote": true,
+            "image": "image-1.jpg",
+            "startDate": "2025-01-01"
+        },
+        {
+            "id": 5,
+            "title": "HTML 101",
+            "duration": "15 days",
+            "remote": true,
+            "image": "image-1.jpg",
+            "startDate": "2025-01-01"
+        },
+        {
+            "id": 6,
+            "title": "HTML / CSS 303",
+            "duration": "15 days",
+            "remote": false,
+            "image": "image-1.jpg",
+            "startDate": "2025-01-01"
+        }
+    ],
+    "students": [
+        {
+            "firstName": "Philip",
+            "lastName": "Klingstedt",
+            "email":"philip@philip.se",
+            "phone":"0706633512"
+        },
+        {
+            "firstName": "Michael",
+            "lastName": "Gustavsson",
+            "email":"michael@michael.se",
+            "phone":"0701234567"
+        },
+        {
+            "firstName": "Lina",
+            "lastName": "Sarenius",
+            "email":"lina@lina.se",
+            "phone":"0707654321"
+        }
+    ],
+    "CourseStudents": [ 
+        {
+            "courseTitle": "Javascript 101", 
+            "students":[
+                {
+                    "email":"philip@philip.se"
+                },
+                {
+                    "email":"michael@michael.se"
+                }
+            ]
+        }
+    ]
+}
